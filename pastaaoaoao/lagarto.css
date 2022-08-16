@@ -1,0 +1,110 @@
+body {
+    background: #E4F5E6;
+}
+
+
+}
+
+
+/*textos:*/
+p {
+    text-align: center;
+    }
+
+  #lagarto  {
+text-align: center;
+font-size: 94px;
+color:#394038;
+text-decoration:underline;
+}
+
+#bichosl{
+font-size: 30px;
+color:#522625;
+font-style:italic;
+}
+
+#Habitat {
+
+font-size: 40px;
+color:#394038;
+}
+#phabitat {
+
+font-size: 20px;
+color:#522625;
+
+}
+
+
+#coisos{
+font-size: 20px;
+color:#522625;
+
+
+}
+
+#p1 {
+font-size:25px;
+color:#522625;
+
+}
+#Caracteristicasfisicas{
+font-size: 40px;
+color:#394038;
+}
+#comportamento {
+font-size: 40px;
+color:#394038;
+}
+
+#pcomportamento{
+font-size: 20px;
+color:#522625;
+}
+
+#h5 {
+font-size: 40px;
+color:#394038;
+
+}
+#lista19 {
+font-size: 22px;
+color:#522625;
+text-decoration:underline;
+}
+
+/*imagens*/
+
+
+#banner {
+     width: 95%;
+     height:420px;
+     border: 20px solid #394038;
+     padding:  5px;
+     margin-left: 15px;
+     border-radius:5px;
+     border-style: dashed dotted groove dotted;
+ }
+
+
+#imglt{
+
+	width: 20%;
+}
+
+#abcd {
+border: 10px solid #394038;
+height:170px;
+border-radius:6px;
+
+}
+
+#h2o  {
+
+border: 10px solid #394038;
+width:285px;
+border-radius:7px;
+border-style:groove dashed groove dashed;
+
+}
